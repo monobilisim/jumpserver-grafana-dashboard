@@ -10,8 +10,8 @@
 [![Readme in English](https://img.shields.io/badge/Readme-English-blue)](README.md)
 
 <div align="center">  
-<a href="https://mono.net.tr/">  
-  <img src="https://monobilisim.com.tr/images/mono-bilisim.svg" width="340"/>  
+<a href="https://mono.tr/">  
+  <img src="https://r2.mono.tr/logo/Mono-Logo.svg" width="340"/>  
 </a>
 
 <h2 align="center">Jumpserver Audit Dashboard for Grafana</h2>
